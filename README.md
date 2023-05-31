@@ -1,1 +1,2 @@
-# -text-based-adventure-game
+# Text Based Adventure Game
+A simple text-based adventure game.
